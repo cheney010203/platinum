@@ -1,0 +1,7 @@
+Executable : /Users/xujiaxj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/xujiaxj/AndroidStudioProjects/PlatinumMedia/platinum/.cxx/Debug/5x305n30/armeabi-v7a
+platinum-jni
+jvmArgs : 
+

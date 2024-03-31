@@ -1,0 +1,3 @@
+/Users/xujiaxj/AndroidStudioProjects/PlatinumMedia/platinum/.cxx/Debug/5q4b1u6p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/xujiaxj/AndroidStudioProjects/PlatinumMedia/platinum/.cxx/Debug/5q4b1u6p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/xujiaxj/AndroidStudioProjects/PlatinumMedia/platinum/.cxx/Debug/5q4b1u6p/armeabi-v7a/CMakeFiles/platinum-jni.dir

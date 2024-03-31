@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/xujiaxj/AndroidStudioProjects/work/platinum/platinum/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/xujiaxj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/xujiaxj/AndroidStudioProjects/work/platinum/platinum/.cxx/Debug/455nv5b7/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/xujiaxj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/xujiaxj/AndroidStudioProjects/work/platinum/platinum/.cxx/Debug/455nv5b7/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "platinum-jni-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/xujiaxj/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/xujiaxj/AndroidStudioProjects/work/platinum/platinum/.cxx/Debug/455nv5b7/arm64-v8a",
+        "platinum-jni"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "platinum-jni",
+      "output": "/Users/xujiaxj/AndroidStudioProjects/work/platinum/platinum/build/intermediates/cxx/Debug/455nv5b7/obj/arm64-v8a/libplatinum-jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
